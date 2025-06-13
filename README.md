@@ -1,2 +1,2 @@
-# practicing-cpp
-Practicing C++ Programming Language
+# Practicing Programming
+Practicing Programming in C++ and Python

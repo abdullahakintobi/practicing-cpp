@@ -3,6 +3,6 @@
 
 int main()
 {
-  std::cout << "This is a string in C++";
+  std::cout << "This is a string in C++" << endl;
   return 0;
 }
