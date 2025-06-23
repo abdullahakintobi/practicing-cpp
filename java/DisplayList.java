@@ -1,5 +1,6 @@
 // Practice for loop in Java
-public class Main {
+
+public class DisplayList {
 
     public static void main(String[] args) {
         System.out.println("Practicing Loop:");
