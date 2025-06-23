@@ -1,6 +1,6 @@
 // Variable initialization and if-else statement in Java
 
-public class Main {
+public class CustomerPurchase {
 
     public static void main(String[] args) {
         // Variables declaration
