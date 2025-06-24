@@ -60,3 +60,33 @@ employees = {
 }
 
 display_salary_ranking(employees)
+
+
+
+'''
+Output:
+===========================================================
+| No.  | Employee Name               | Annual Salary ($)  |
+===========================================================
+| 1.   | JUMOKE Akinyemi             |        $ 97,000.00 |
+| 2.   | RISIKAT Ojo                 |        $ 95,000.00 |
+| 3.   | FUNKE Ajayi                 |        $ 94,000.00 |
+| 4.   | CHIDINMA Okoro              |        $ 91,000.00 |
+| 5.   | NGOZI Okafor                |        $ 90,000.00 |
+| 6.   | HAUWA Usman                 |        $ 88,000.00 |
+| 7.   | TUNDE Lawal                 |        $ 86,000.00 |
+| 8.   | ADEWALE Olawale             |        $ 85,000.00 |
+| 9.   | PELUMI Fashola              |        $ 83,000.00 |
+| 10.  | LATIFAT Abdullahi           |        $ 82,000.00 |
+| 11.  | EMEKA Nwachukwu             |        $ 79,000.00 |
+| 12.  | OLUMIDE Adeyemi             |        $ 77,000.00 |
+| 13.  | IFEANYI Okeke               |        $ 75,000.00 |
+| 14.  | SEGUN Davies                |        $ 74,000.00 |
+| 15.  | BAMIDELE Adeniyi            |        $ 72,000.00 |
+| 16.  | QUADRI Ayodele              |        $ 71,000.00 |
+| 17.  | KOLAWOLE Adekunle           |        $ 70,000.00 |
+| 18.  | MUSTAPHA Bello              |        $ 69,000.00 |
+| 19.  | DAMILOLA Bakare             |        $ 68,000.00 |
+| 20.  | GANIYU Idris                |        $ 66,000.00 |
+===========================================================
+'''
