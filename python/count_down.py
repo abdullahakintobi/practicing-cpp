@@ -1,20 +1,20 @@
-def count_down(num):
+# Count down using recursion
+def count_down_recursion(num):
     if num == 0:
         print("Lift off!")
     else:
         print(num)
-        count_down(num - 1)
+        count_down_recursion(num - 1)
 
-# Test Case
-print(count_down(5))
-      
-'''
-Output:
-5
-4
-3
-2
-1
-Lift off!
-None
-'''
+# Count down using for loop
+def count_down_for(num):
+    for i in reversed((range(1, num + 1))):
+        print(i)
+    print("Lift off!")
+
+# Count down using while loop
+def count_down_while(num):
+    while num > 0:
+        print(num)
+        num -= 1
+    print("Lift off!")
